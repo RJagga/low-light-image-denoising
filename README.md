@@ -3,7 +3,7 @@
 ## Description
 This project focuses on implementing a UNet model to perform image denoising. The UNet model is a type of convolutional neural network (CNN) that has been widely used for image segmentation and denoising tasks due to its efficient architecture for capturing both low-level and high-level features. The average PSNR for the test set is calculated to evaluate the performance of the UNet model which came out to be 20.84. Higher PSNR values indicate better image quality and more effective noise removal.
 
-Paper used for implementation: https://arxiv.org/pdf/2404.14248
+Paper used for implementation and dataset: https://arxiv.org/pdf/2404.14248
 
 ## DATA
 
